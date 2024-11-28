@@ -1,0 +1,1 @@
+Five-Stage Pipelined CPU Design in Vivado using Verilog, implementing functions for instruction fetch, decode, execution, memory access, and write-back to realize various MIPS instructions, Course Project of Principles of Computer Organization,
