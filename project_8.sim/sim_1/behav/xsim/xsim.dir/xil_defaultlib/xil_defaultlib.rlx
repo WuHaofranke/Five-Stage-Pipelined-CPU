@@ -1,0 +1,22 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sim_1/new/mips_sopc1_tb.v,1702113510,verilog,,,,mips_sopc1_tb,,,../../../../project_8.srcs/sources_1/new,,,,,
+C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/alu.v,1702113510,verilog,,C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/decoder_5_32.v,C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/defines.v,alu,,,../../../../project_8.srcs/sources_1/new,,,,,
+C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/decoder_5_32.v,1702113510,verilog,,C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/decoder_6_64.v,,decoder_5_32,,,../../../../project_8.srcs/sources_1/new,,,,,
+C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/decoder_6_64.v,1702113510,verilog,,C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/ex_mem.v,,decoder_6_64,,,../../../../project_8.srcs/sources_1/new,,,,,
+C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/defines.v,1699859603,verilog,,C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/alu.v,,,,,../../../../project_8.srcs/sources_1/new,,,,,
+C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/devices.v,1699669210,verilog,,C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/defines.v,,,,,../../../../project_8.srcs/sources_1/new,,,,,
+C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/ex_mem.v,1702113510,verilog,,C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/id.v,,ex_mem,,,../../../../project_8.srcs/sources_1/new,,,,,
+C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/id.v,1702113510,verilog,,C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/id_ex.v,C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/devices.v,id,,,../../../../project_8.srcs/sources_1/new,,,,,
+C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/id_ex.v,1702113510,verilog,,C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/if_id.v,,id_ex,,,../../../../project_8.srcs/sources_1/new,,,,,
+C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/if_id.v,1701091801,verilog,,C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/inst_rom.v,,if_id,,,../../../../project_8.srcs/sources_1/new,,,,,
+C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/inst_rom.v,1702113510,verilog,,C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/mem.v,C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/devices.v,inst_rom,,,../../../../project_8.srcs/sources_1/new,,,,,
+C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/mem.v,1702113510,verilog,,C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/mem_wb.v,,mem,,,../../../../project_8.srcs/sources_1/new,,,,,
+C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/mem_wb.v,1702113510,verilog,,C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/mips_sopc1.v,,mem_wb,,,../../../../project_8.srcs/sources_1/new,,,,,
+C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/mips_sopc1.v,1702113510,verilog,,C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/pc.v,,mips_sopc1,,,../../../../project_8.srcs/sources_1/new,,,,,
+C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/pc.v,1702113510,verilog,,C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/pipline_cpu.v,,pc,,,../../../../project_8.srcs/sources_1/new,,,,,
+C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/pipline_cpu.v,1702113510,verilog,,C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/regfile.v,,pipline_cpu,,,../../../../project_8.srcs/sources_1/new,,,,,
+C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/regfile.v,1702113510,verilog,,C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sim_1/new/mips_sopc1_tb.v,,regfile,,,../../../../project_8.srcs/sources_1/new,,,,,

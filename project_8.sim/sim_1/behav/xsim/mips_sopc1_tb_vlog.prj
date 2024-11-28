@@ -1,0 +1,23 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib "C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/devices.v" "C:/Users/wuhao/Desktop/jsjzcyl/project_8/project_8.srcs/sources_1/new/defines.v" --include "../../../../project_8.srcs/sources_1/new" \
+"../../../../project_8.srcs/sources_1/new/alu.v" \
+"../../../../project_8.srcs/sources_1/new/decoder_5_32.v" \
+"../../../../project_8.srcs/sources_1/new/decoder_6_64.v" \
+"../../../../project_8.srcs/sources_1/new/ex_mem.v" \
+"../../../../project_8.srcs/sources_1/new/id.v" \
+"../../../../project_8.srcs/sources_1/new/id_ex.v" \
+"../../../../project_8.srcs/sources_1/new/if_id.v" \
+"../../../../project_8.srcs/sources_1/new/inst_rom.v" \
+"../../../../project_8.srcs/sources_1/new/mem.v" \
+"../../../../project_8.srcs/sources_1/new/mem_wb.v" \
+"../../../../project_8.srcs/sources_1/new/mips_sopc1.v" \
+"../../../../project_8.srcs/sources_1/new/pc.v" \
+"../../../../project_8.srcs/sources_1/new/pipline_cpu.v" \
+"../../../../project_8.srcs/sources_1/new/regfile.v" \
+"../../../../project_8.srcs/sim_1/new/mips_sopc1_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

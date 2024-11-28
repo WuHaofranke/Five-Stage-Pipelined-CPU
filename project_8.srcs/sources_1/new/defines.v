@@ -1,0 +1,14 @@
+`define AluopAdd  14'b10_0000_0000_0000
+`define AluopAddu 14'b01_0000_0000_0000
+`define AluopSub  14'b00_1000_0000_0000
+`define AluopSubu 14'b00_0100_0000_0000
+`define AluopSlt  14'b00_0010_0000_0000
+`define AluopSltu 14'b00_0001_0000_0000
+`define AluopAnd  14'b00_0000_1000_0000
+`define AluopOr   14'b00_0000_0100_0000
+`define AluopXor  14'b00_0000_0010_0000
+`define AluopNor  14'b00_0000_0001_0000
+`define AluopSll  14'b00_0000_0000_1000
+`define AluopSrl  14'b00_0000_0000_0100
+`define AluopSra  14'b00_0000_0000_0010
+`define AluopLui  14'b00_0000_0000_0001
